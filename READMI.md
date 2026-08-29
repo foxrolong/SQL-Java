@@ -13,4 +13,7 @@ bóc tách và tạo lập ra dự án thực tế đem lại hiệu quả cho s
 tự học và đi đến cách làm của riêng mình,
 
 chốt lại cụ thể dự án cá nhân và đi theo đúng lộ trình.
- 
+
+cảnh quay 
+cảnh góc nhìn của bản thân
+cảnh màn hình pc mình gõ gì
