@@ -7,4 +7,9 @@ lên chủ đề cho video mới:
 - trong quá trình làm dự án có khó khăn gì
 - trong quá trình học có khó khăn gì 
 - khi làm dự án giúp nổi CV nhưng có thật sự giúp ta có kiến thức đi phỏng vấn không?
+1. mục tiêu đã xác định là dự án time on/off dùng java/sql.
+2. tiếp theo cần làm gì để có thể làm dự án này 
+- có nền tảng java và sql
+- cài môi trường
+- liên kết java và sql với nhau bằng cách nào JDBC ( Java Database Connectivity )
 - 
