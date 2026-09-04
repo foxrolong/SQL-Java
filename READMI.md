@@ -12,4 +12,5 @@ lên chủ đề cho video mới:
 - có nền tảng java và sql
 - cài môi trường
 - liên kết java và sql với nhau bằng cách nào JDBC ( Java Database Connectivity )
-- 
+- biến bài tập thành bài tập thực tế
+
