@@ -10,9 +10,10 @@ góc máy 1.
 góc máy 2.
 - chuyển qua cảnh gõ code, nhưng lại không gõ được gì
 góc máy 3.
-- quay lại mặt than thở
+- quay lại mặt than thở ừ người đưa ra dự án lại ko biết làm gì trong dự án này.
 góc máy 4.
-- nói về 
+- như mọi người thấy đấy, một người có rất nhiều ý tưởng nhưng lại bị giới hạn ngày ở bước code này khi mình đưa ra dự á nhưng mình mới chỉ biết hello world
+- 
 
 helo xin chào mọi người, mình có đề ra một dự án mà trong khi bản thân mình không có biết gì về code hết,
 năm ba rồi nhưng bản thân mình bây giờ mới bắt đầu nhảy vào code một dự án thực tế
