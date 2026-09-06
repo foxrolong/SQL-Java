@@ -6,4 +6,3 @@ vd:
 - sau khi cài bật máy tính trong vài giờ tới hoạc vài phút tới máy tính sẽ tự động bật.
 '''
 
-nguyên lý cốt lõi bên trong:
