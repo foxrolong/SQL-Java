@@ -10,3 +10,11 @@ public class nhapxuat {
     }
     }
 }
+public class nhapvao{
+    private {
+
+    }
+    public {
+
+    }
+}
