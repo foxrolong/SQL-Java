@@ -39,16 +39,25 @@ public class baixetkqsv {
         }else{
             System.out.println("Xep loai: yeu");
         }
+
         if(gpa >= 3.0 && conductScore >= 90 && absence <= 5){
-            System.out.println("Du dieu kien nang cao");
-        }
-        if(choice == 1){
-            if(gpa >= 3.6 && conductScore >= 90 && absence <= 5 && !disciplinary){
-                System.out.println("Du dieu kien hoc bong");
-            }else{
-                System.out.println("Khong du dieu kien hoc bong");
-            }
+            System.out.println("Du dieu kien ");
             
+        }
+
+
+        if(disciplinary == false){
+            if(gpa >= 3.6 && conductScore >= 90 && absence <= 5){
+                System.out.println("Du dieu kien hoc bong loại A");
+            }else if(gpa >= 3.2 && conductScore >= 80 && absence <= 5){
+                System.out.println("Du dieu kien hoc bong loại B");
+            }else if(gpa >= 3.0 && conductScore >= 70 && absence <= 5){
+                System.out.println("Du dieu kien hoc bong loại C");
+            }else{
+                System.out.println("Khong có học bổng");
+            }
+        }else{
+            System.out.println("không đủ điều kiện nhận học bổng");
         }
     }
 }
