@@ -34,6 +34,5 @@ public class methods {
         System.out.println("Diem Trung Binh: " + tinhDiemTrungBinh(diemMon1, diemMon2, diemMon3));
         System.out.println("Tin Chi Con Thieu: " + tinhTinChiConThieu(soTinChiDaTichLuy, soTinChiYeuCau));
         System.out.println("Hoc Phi: " + tinhHocPhi(soTinChiDangKy, hocPhiMotTinChi));
-
     }
 }
