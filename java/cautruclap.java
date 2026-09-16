@@ -95,11 +95,22 @@ public class cautruclap {
         // int soTinChiYeuCau = 130;
         // int tinChiMoiHocKy = 18;
         // int hocKy = 0;
+        // int soTinChiCanThem = 0;
+
+        // if(soTinChi >= soTinChiYeuCau){
+        //     System.out.println("Đã đạt yêu cầu số tín chỉ: " + soTinChi);
+        // }else if(soTinChi < soTinChiYeuCau){
+        //     soTinChiCanThem = soTinChiYeuCau - soTinChi;
+        //     System.out.println("Cần thêm " + soTinChiCanThem + " tín chỉ nữa để đạt yêu cầu.");
+            
+        // }
+
         // while(soTinChi < soTinChiYeuCau){
         //     soTinChi += tinChiMoiHocKy;
         //     hocKy++;
         //     System.out.println("học kỳ: " + hocKy + "\r\nsố tín chỉ: " + soTinChi);
         // }
+        // System.out.println("hoc ky can them:" + hocKy);
 
     }
 }
