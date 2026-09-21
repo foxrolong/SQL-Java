@@ -111,6 +111,38 @@ public class cautruclap {
         //     System.out.println("học kỳ: " + hocKy + "\r\nsố tín chỉ: " + soTinChi);
         // }
         // System.out.println("hoc ky can them:" + hocKy);
+        
+        //phan 7 vòng lặp do while
+        // int dem = 5; 
+        // do{
+        //     System.out.println("dem = "+ dem);
+        //     dem--;
+        // } while (dem > 0);
+        // vì trươc khi kiểm tra điều kiện thì nó đã chạy khối lệnh trước nếu điều kiên sai thì nó vẫn đượ thực thi 1 lần
+        
+        //so sanh while và do while 
+
+        // int giaTri = 10;
+        // while(giaTri < 5){
+        //     System.out.println("giá trị: " + giaTri);
+        //     giaTri++;
+        // } while(giaTri < 5);
+        
+        // do{
+        //     System.out.println("giá trị: " + giaTri);
+        //     giaTri++;
+        // } while(giaTri < 5);
+        
+
+        // phan 9: Sử dụng continue
+        for(int i=0 ; i<=10 ; i++ ){
+            if(i==4){
+                continue;
+            }
+            i++;
+            System.out.println("i = " + i);
+        }
+
 
     }
 }
